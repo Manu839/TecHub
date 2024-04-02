@@ -4,8 +4,11 @@ TechHub is a comprehensive website designed to cater to the diverse needs of sof
 Tech and Tools used :
 1) React
 2) Tailwindcss
-3) Firebase
+3) Firebase and auth
 4) Material-tailwind
+5) Framer-motion
+6) redux
+7) react-icons
 
 # Getting Started with Create React App
 
