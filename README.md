@@ -1,5 +1,11 @@
 
-techHub is a comprehensive website designed to cater to the diverse needs of software developers and computer science enthusiasts. With a seamless blend of project management tools, educational resources, and community engagement features, CodeCollab Hub aims to streamline collaboration, foster learning, and promote innovation within the tech community. 
+TechHub is a comprehensive website designed to cater to the diverse needs of software developers and computer science enthusiasts. With a seamless blend of project management tools, educational resources, and community engagement features, CodeCollab Hub aims to streamline collaboration, foster learning, and promote innovation within the tech community. 
+
+Tech and Tools used :
+1) React
+2) Tailwindcss
+3) Firebase
+4) Material-tailwind
 
 # Getting Started with Create React App
 
