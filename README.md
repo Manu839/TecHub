@@ -8,7 +8,6 @@ Tech and Tools used :
 4) Material-tailwind
 5) Framer-motion
 6) redux
-7) react-icons
 
 # Getting Started with Create React App
 
